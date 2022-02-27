@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dark0432n
+- 👋 Hi, I’m @dark
 - 👀 I’m interested in coding ^ hacking ^web development^Linux...
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on C related projects 
